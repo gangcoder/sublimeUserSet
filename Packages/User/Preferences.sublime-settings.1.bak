@@ -1,0 +1,16 @@
+{
+	"Seti_SB_med": true,
+	"Seti_sb_tree_small": true,
+	"Seti_sb_tree_tiny": true,
+	"Seti_tabs_small": true,
+	"color_scheme": "Packages/Color Scheme - Default/iPlastic.tmTheme",
+	"font_face": "Source Code Pro",
+	"font_size": 11,
+	"ignored_packages":
+	[
+		"Markdown",
+		"Vintage"
+	],
+	"theme": "Seti.sublime-theme",
+	"translate_tabs_to_spaces": true
+}

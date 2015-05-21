@@ -1,0 +1,39 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"AutoFileName",
+		"BracketHighlighter",
+		"Clipboard Manager",
+		"ConvertToUTF8",
+		"DocBlockr",
+		"Emmet",
+		"FileDiffs",
+		"Git",
+		"Inc-Dec-Value",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Package Control",
+		"PackageResourceViewer",
+		"PHP Completions Kit",
+		"Phpcs",
+		"Python Auto-Complete",
+		"Restructured Text (RST) Snippets",
+		"RestructuredText Improved",
+		"Seti_UI",
+		"SFTP",
+		"SideBarEnhancements",
+		"SublimeEnhancedUtilitiesSet",
+		"SublimeREPL",
+		"SVN",
+		"Terminal",
+		"Theme - Centurion",
+		"Theme - DefaultPlus",
+		"Theme - Soda",
+		"TrailingSpaces",
+		"Xdebug Client"
+	]
+}

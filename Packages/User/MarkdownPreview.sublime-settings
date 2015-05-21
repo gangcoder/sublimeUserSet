@@ -1,0 +1,7 @@
+{
+	"enabled_parsers": ["github"],
+    "parser": "github",
+    "enable_highlight": true,
+    "show_panel_on_build": true,
+    "github_inject_header_ids": true,
+}

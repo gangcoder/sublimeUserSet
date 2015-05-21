@@ -1,0 +1,6 @@
+[
+	{ "keys": ["ctrl+up"], "command": "scroll_lines", "args": {"amount": 1.0 } },
+	{ "keys": ["ctrl+down"], "command": "scroll_lines", "args": {"amount": -1.0 } },
+	{ "keys": ["ctrl+shift+j"], "command": "clipboard_manager_choose_and_paste" },
+	{ "keys": ["ctrl+shift+r"], "command": "goto_symbol_in_project" },
+]

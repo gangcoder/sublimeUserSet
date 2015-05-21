@@ -1,0 +1,18 @@
+<snippet>
+    <content><![CDATA[
+<?php
+/**
+* @description ${1:[description]}
+* @author      ${2:xugang}
+* @email       ${3:xugang@feeyo.com}
+* @version     ${4:1.0}
+* @date        2015.${5:[date]}
+*/
+
+${6}
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>phpheader</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+</snippet>
