@@ -3,8 +3,8 @@
 <?php
 /**
 * @description ${1:[description]}
-* @author      ${2:xugang}
-* @email       ${3:xugang@feeyo.com}
+* @author      ${2:author}
+* @emil        ${3:email}
 * @version     ${4:1.0}
 * @date        2015.${5:[date]}
 */
